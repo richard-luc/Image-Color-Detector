@@ -2,6 +2,8 @@
 
 A static website that lets clients upload an image and detect its colors directly in the browser.
 
+![Image Color Detector screenshot](screenshot.png)
+
 ## How to run
 
 Open `index.html` in a browser.
